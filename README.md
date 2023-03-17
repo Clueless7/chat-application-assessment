@@ -12,7 +12,7 @@
 
 - The file should be found on `server/.env`
 
-3. On root directory, install and run the development server:
+3. On the root directory, install the packages and run the development server:
 
 ```console
 $ npm install
